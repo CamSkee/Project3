@@ -1,4 +1,4 @@
-# Project3
+# Project 3
 # 🚦 Transportation Data Analysis & Simulation (NHTS + NGSIM)
 
 ## 📌 Project Overview  
@@ -23,9 +23,10 @@ The goal is to visualize key trends and simulate vehicle behavior using the Inte
 
 ## ▶️ User Guide - How to Run (Jupyter Notebook)
 
-1. Open the `.ipynb` file in Jupyter Notebook or VS Code  
-2. Make sure required libraries are installed (pandas, matplotlib, seaborn)  
-3. Run each cell in order  
-4. Graphs and results will display in the notebook  
+1. Open the `.ipynb` file in Jupyter Notebook or VS Code
+2. Download Data Files
+3. Make sure required libraries are installed (pandas, matplotlib, seaborn)  
+4. Run each cell in order  
+5. Graphs and results will display in the notebook  
 
 ---
