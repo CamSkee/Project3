@@ -30,3 +30,43 @@ The goal is to visualize key trends and simulate vehicle behavior using the Inte
 5. Graphs and results will display in the notebook  
 
 ---
+
+## 📂 Repository Guide
+
+### 📓 Code Files
+- [CIVE202_Spring2026_G09_P3_Code.ipynb](./CIVE202_Spring2026_G09_P3_Code.ipynb)  
+  Main Jupyter Notebook containing all data analysis, visualizations, and simulation.
+
+- [CIVE202_Spring2026_G09_P3_RawCode.py](./CIVE202_Spring2026_G09_P3_RawCode.py)  
+  Python script version of the project code.
+
+---
+
+### 📊 Data Files
+- [NHTS.xlsx](./NHTS.xlsx)  
+  National Household Travel Survey dataset (travel behavior data).
+
+- [NGSIM.xlsx](./NGSIM.xlsx)  
+  Next Generation Simulation dataset (vehicle trajectory and driving behavior).
+
+---
+
+### 📄 Project Documents
+- [CIVE202_Spring 2026_G09_Project3_SOW.pdf](./CIVE202_Spring%202026_G09_Project3_SOW.pdf)  
+  Scope of Work outlining project objectives and tasks.
+
+- [CIVE202_Spring2026_G09_Project3_TechnicalReport.pdf](./CIVE202_Spring2026_G09_Project3_TechnicalReport.pdf)  
+  Final report summarizing methods, results, and key findings.
+
+- [CIVE202_Spring2026_G09_Project3_GanttChart.pdf](./CIVE202_Spring2026_G09_Project3_GanttChart.pdf)  
+  Gantt chart showing project timeline and task breakdown.
+
+- [CIVE202_Spring2026_G09_P3_AnnotatedCode.Docx](./CIVE202_Spring2026_G09_P3_AnnotatedCode.Docx)
+
+---
+
+### 📘 Other
+- [README.md](./README.md)  
+  Project overview and instructions for running the analysis.
+
+---
