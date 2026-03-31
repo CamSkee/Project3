@@ -52,7 +52,7 @@ The goal is to visualize key trends and simulate vehicle behavior using the Inte
 ---
 
 ### 📄 Project Documents
-- [CIVE202_Spring 2026_G09_Project3_SOW.pdf](./CIVE202_Spring%202026_G09_Project3_SOW.pdf)  
+- [CIVE202_Spring2026_G09_Project3_SOW.pdf](./CIVE202_Spring2026_G09_Project3_SOW.pdf)  
   Scope of Work outlining project objectives and tasks.
 
 - [CIVE202_Spring2026_G09_Project3_TechnicalReport.pdf](./CIVE202_Spring2026_G09_Project3_TechnicalReport.pdf)  
@@ -61,8 +61,11 @@ The goal is to visualize key trends and simulate vehicle behavior using the Inte
 - [CIVE202_Spring2026_G09_Project3_GanttChart.pdf](./CIVE202_Spring2026_G09_Project3_GanttChart.pdf)  
   Gantt chart showing project timeline and task breakdown.
 
-- [CIVE202_Spring2026_G09_Project3_Annotated-Code.docx](./CIVE202_Spring2026_G09_P3_AnnotatedCode.docx)  
+- [CIVE202_Spring2026_G09_Project3_AnnotatedCode.docx](./CIVE202_Spring2026_G09_P3_AnnotatedCode.docx)  
   Annotated Code Document explaining what lines of code do.
+
+- [CIVE202_Spring2026_G09_Project3_EngineeringTimesheet.pdf](./CIVE202_Spring2026_G09_Project3_EngineeringTimesheet.pdf)
+  Engineering Timesheet for the group.
 
 ---
 
