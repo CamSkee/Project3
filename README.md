@@ -34,10 +34,10 @@ The goal is to visualize key trends and simulate vehicle behavior using the Inte
 ## 📂 Repository Guide
 
 ### 📓 Code Files
-- [CIVE202_Spring2026_G09_P3_Code.ipynb](./CIVE202_Spring2026_G09_P3_Code.ipynb)  
+- [CIVE202_Spring2026_G09_Project3_Code.ipynb](./CIVE202_Spring2026_G09_P3_Code.ipynb)  
   Main Jupyter Notebook containing all data analysis, visualizations, and simulation.
 
-- [CIVE202_Spring2026_G09_P3_RawCode.py](./CIVE202_Spring2026_G09_P3_RawCode.py)  
+- [CIVE202_Spring2026_G09_Project3_RawCode.py](./CIVE202_Spring2026_G09_P3_RawCode.py)  
   Python script version of the project code.
 
 ---
@@ -61,7 +61,7 @@ The goal is to visualize key trends and simulate vehicle behavior using the Inte
 - [CIVE202_Spring2026_G09_Project3_GanttChart.pdf](./CIVE202_Spring2026_G09_Project3_GanttChart.pdf)  
   Gantt chart showing project timeline and task breakdown.
 
-- [CIVE202_Spring2026_G09_P3_AnnotatedCode.docx](./CIVE202_Spring2026_G09_P3_AnnotatedCode.docx)  
+- [CIVE202_Spring2026_G09_Project3_Annotated-Code.docx](./CIVE202_Spring2026_G09_P3_AnnotatedCode.docx)  
   Annotated Code Document explaining what lines of code do.
 
 ---
