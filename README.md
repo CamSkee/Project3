@@ -64,7 +64,7 @@ The goal is to visualize key trends and simulate vehicle behavior using the Inte
 - [CIVE202_Spring2026_G09_Project3_AnnotatedCode.docx](./CIVE202_Spring2026_G09_P3_AnnotatedCode.docx)  
   Annotated Code Document explaining what lines of code do.
 
-- [CIVE202_Spring2026_G09_Project3_EngineeringTimesheet.pdf](./CIVE202_Spring2026_G09_Project3_EngineeringTimesheet.pdf)
+- [CIVE202_Spring2026_G09_Project3_EngineeringTimesheet.pdf](./CIVE202_Spring2026_G09_Project3_EngineeringTimesheet.pdf)  
   Engineering Timesheet for the group.
 
 ---
